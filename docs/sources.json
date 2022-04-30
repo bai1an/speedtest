@@ -1,0 +1,37 @@
+[
+    {
+        "text": "网易-移动",
+        "size": 1,
+        "link": "https://shaanxi01-yd-12041.cdn.163fen.com/s/allycp.gdl.netease.com/netease_baidu_sem_dev_1.5.64_com.netease_22rHT46.apk"
+    },
+    {
+        "text": "网易-移动",
+        "size": 2,
+        "link": "https://shaanxi02-yd-12041.cdn.163fen.com/s/allycp.gdl.netease.com/g10_netease_baidu_sem_dev_4.3.3_com.netease.stzb.netease_22NU8jm.apk"
+    },
+    {
+        "text": "网易-联通",
+        "size": 1,
+        "link": "https://hubei02-lt-12005.cdn.163fen.com/s/allycp.gdl.netease.com/g10_netease_baidu_sem_dev_4.3.3_com.netease.stzb.netease_22NU8jm.apk"
+    },
+    {
+        "text": "网易-联通",
+        "size": 2,
+        "link": "https://hubei03-lt-12005.cdn.163fen.com/s/allycp.gdl.netease.com/netease_baidu_sem_dev_1.5.64_com.netease_22rHT46.apk"
+    },
+    {
+        "text": "清华",
+        "size": 1,
+        "link": "https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/20.04.4/ubuntu-20.04.4-desktop-amd64.iso"
+    },
+    {
+        "text": "北大",
+        "size": 1,
+        "link": "https://mirror.bjtu.edu.cn/ubuntu-releases/20.04.4/ubuntu-20.04.4-desktop-amd64.iso"
+    },
+    {
+        "text": "OVH VIN",
+        "size": 10,
+        "link": "https://vin.proof.ovh.us/files/10Mb.dat"
+    }
+]
