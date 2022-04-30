@@ -30,8 +30,8 @@
         "link": "https://mirror.bjtu.edu.cn/ubuntu-releases/20.04.4/ubuntu-20.04.4-desktop-amd64.iso"
     },
     {
-        "text": "OVH VIN",
+        "text": "ubuntu",
         "size": 10,
-        "link": "https://vin.proof.ovh.us/files/10Mb.dat"
+        "link": "https://releases.ubuntu.com/20.04.4/ubuntu-20.04.4-desktop-amd64.iso"
     }
 ]
