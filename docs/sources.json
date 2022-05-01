@@ -1,37 +1,47 @@
 [
     {
-        "text": "网易-移动",
-        "size": 1,
+        "text": "网易-移动1",
+        "size": 1880,
         "link": "https://shaanxi01-yd-12041.cdn.163fen.com/s/allycp.gdl.netease.com/netease_baidu_sem_dev_1.5.64_com.netease_22rHT46.apk"
     },
     {
-        "text": "网易-移动",
-        "size": 2,
+        "text": "网易-移动2",
+        "size": 1950,
         "link": "https://shaanxi02-yd-12041.cdn.163fen.com/s/allycp.gdl.netease.com/g10_netease_baidu_sem_dev_4.3.3_com.netease.stzb.netease_22NU8jm.apk"
     },
     {
-        "text": "网易-联通",
-        "size": 1,
+        "text": "网易-联通1",
+        "size": 1950,
         "link": "https://hubei02-lt-12005.cdn.163fen.com/s/allycp.gdl.netease.com/g10_netease_baidu_sem_dev_4.3.3_com.netease.stzb.netease_22NU8jm.apk"
     },
     {
-        "text": "网易-联通",
-        "size": 2,
+        "text": "网易-联通2",
+        "size": 1880,
         "link": "https://hubei03-lt-12005.cdn.163fen.com/s/allycp.gdl.netease.com/netease_baidu_sem_dev_1.5.64_com.netease_22rHT46.apk"
     },
     {
         "text": "清华",
-        "size": 1,
+        "size": 3140,
         "link": "https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/20.04.4/ubuntu-20.04.4-desktop-amd64.iso"
     },
     {
         "text": "北大",
-        "size": 1,
+        "size": 3140,
         "link": "https://mirror.bjtu.edu.cn/ubuntu-releases/20.04.4/ubuntu-20.04.4-desktop-amd64.iso"
     },
     {
         "text": "ubuntu",
-        "size": 10,
+        "size": 3140,
         "link": "https://releases.ubuntu.com/20.04.4/ubuntu-20.04.4-desktop-amd64.iso"
+    },
+    {
+        "text": "和彩云",
+        "size": 2690,
+        "link": "https://download4.caiyun.feixin.10086.cn:443/storageWeb/servlet/downloadServlet?code=S0IwRjExa0xvV0gwaW4yMDgxN3JkMUJpZ2RG&un=F1293026E8FC263CC1CBC61C834A6FB9373B290547AB4C08915517AF133EDAD2&dom=D961&rate=0&txType=0"
+    },
+    {
+        "text": "字节跳动",
+        "size": 2,
+        "link": "https://lf9-cdn-tos.bytecdntp.com/cdn/yuntu-index/1.0.4/case/maiteng/detailbg.png"
     }
 ]
